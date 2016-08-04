@@ -1,0 +1,67 @@
+_repo: Nicholas-Nickleby_967
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 967/967-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: "Nicholas Nickleby; or, The Life and Adventures of Nicholas Nickleby\
+  \ is a novel by Charles Dickens. Originally published as a serial from 1838 to 1839,\
+  \ it was Dickens' third novel.\nThe novel centers on the life and adventures of\
+  \ Nicholas Nickleby, a young man who must support his mother and sister after his\
+  \ father dies.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '967'
+  wikidata: Q847642
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bildungsromans'
+- !lcsh 'Theatrical companies -- Fiction'
+- !lcsh 'Picaresque literature'
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Poor families -- Fiction'
+- !lcsh 'Boarding schools -- Fiction'
+- GITenberg
+title: Nicholas Nickleby
+url: http://www.gutenberg.org/ebooks/967
+wikipedia:
+- https://fi.wikipedia.org/wiki/Nicholas_Nicklebyn_el%C3%A4m%C3%A4_ja_seikkailut
+- https://eo.wikipedia.org/wiki/Nikolao_Nickleby
+- https://fa.wikipedia.org/wiki/%D9%86%DB%8C%DA%A9%D9%84%D8%A7%D8%B3_%D9%86%DB%8C%DA%A9%D9%84%D8%A8%DB%8C
+- https://en.wikisource.org/wiki/Nicholas_Nickleby
+- https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%A9%E3%82%B9%E3%83%BB%E3%83%8B%E3%82%AF%E3%83%AB%E3%83%93%E3%83%BC
+- https://pt.wikipedia.org/wiki/Nicholas_Nickleby
+- https://es.wikipedia.org/wiki/Nicholas_Nickleby
+- https://en.wikipedia.org/wiki/Nicholas_Nickleby
+- https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%81_%D0%9D%D0%B8%D0%BA%D0%BB%D1%8C%D0%B1%D0%B8
+- https://ro.wikipedia.org/wiki/Nicholas_Nickleby
+- https://ko.wikipedia.org/wiki/%EB%8B%88%EC%BD%9C%EB%9D%BC%EC%8A%A4_%EB%8B%88%ED%81%B4%EB%B9%84
+- https://fr.wikipedia.org/wiki/Nicholas_Nickleby
+- https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%8F%A4%E6%8B%89%E6%96%AF%C2%B7%E5%B0%BC%E5%85%8B%E8%B4%9D
+- https://pl.wikipedia.org/wiki/Nicholas_Nickleby_(powie%C5%9B%C4%87)
+- https://hu.wikipedia.org/wiki/Nicholas_Nickleby_(reg%C3%A9ny)
+- https://kw.wikipedia.org/wiki/Nicholas_Nickleby
+- https://sv.wikipedia.org/wiki/Nicholas_Nickleby
+- https://ar.wikipedia.org/wiki/%D9%86%D9%8A%D9%83%D9%88%D9%84%D8%A7%D8%B3_%D9%86%D9%8A%D9%83%D9%84%D8%A8%D9%8A
+- https://nl.wikipedia.org/wiki/Nicholas_Nickleby_(boek)
+- https://en.wikiquote.org/wiki/Nicholas_Nickleby
+- https://de.wikipedia.org/wiki/Nicholas_Nickleby
+- https://it.wikipedia.org/wiki/Nicholas_Nickleby
+- https://he.wikipedia.org/wiki/%D7%A0%D7%99%D7%A7%D7%95%D7%9C%D7%A1_%D7%A0%D7%99%D7%A7%D7%9C%D7%91%D7%99
